@@ -1,0 +1,6 @@
+body .safety-icons img {
+    max-height: 50px;
+}
+body .safety-icons img:nth-child(2) {
+    max-height: 60px;
+}

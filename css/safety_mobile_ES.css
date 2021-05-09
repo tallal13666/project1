@@ -1,0 +1,8 @@
+@media (max-width: 450px) {
+    body .safety-icons img {
+        max-height: 35;
+    }
+    body .safety-icons img:nth-child(2) {
+        max-height: 50px;
+    }
+}
